@@ -4,7 +4,7 @@ https://food-order-shalev-lazarof.netlify.app
 
 Add selected meals to your order and make a reservation.
 
-Frameworks & Design: React
+Frameworks & Design: React (Firebase as a backend)
 
 installation instructions
 1. Download zip and extract project folder
