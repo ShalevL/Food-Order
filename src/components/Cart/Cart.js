@@ -24,7 +24,7 @@ function Cart(props) {
   }
 
   function submitOrderHandler(userData) {
-    fetch("https://meals-84264-default-rtdb.firebaseio.com/orders.json", {
+    fetch("https://food-order-445d9-default-rtdb.firebaseio.com//orders.json", {
       method: "POST",
       body: JSON.stringify({
         user: userData,

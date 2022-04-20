@@ -10,7 +10,7 @@ function AvailableMeals() {
   const [httpError, setHttpError] = useState(null);
 
   useEffect(function () {
-    fetch("https://meals-84264-default-rtdb.firebaseio.com/meals.json", {
+    fetch("https://food-order-445d9-default-rtdb.firebaseio.com/meals.json", {
       method: "GET",
     })
       .then(function (response) {
