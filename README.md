@@ -1,6 +1,10 @@
 Food-Order By Shalev Lazarof.
 
-React.
+https://food-order-shalev-lazarof.netlify.app
+
+Add selected meals to your order and make a reservation.
+
+Frameworks & Design: React
 
 installation instructions
 1. Download zip and extract project folder
