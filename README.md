@@ -1,9 +1,10 @@
-# Food Order
-React Application
+Food-Order By Shalev Lazarof.
+
+React.
 
 installation instructions
-1. download code
-2. navigate to folder
+1. Download zip and extract project folder
+2. Open terminal and navigate to project folder
 3. run npm install
 4. run npm start
 
